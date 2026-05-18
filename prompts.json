@@ -1,112 +1,90 @@
 [
-
-{
+  {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img24.png",
-    "prompt": "A high-fidelity cinematic digital art piece of the young man from the first uploaded image (with his specific facial features and voluminous wavy hair) He is wearing a clean white t-shirt and grey cargo pants, crouching on a wet park pathway during a gentle rain. He holds a large silver umbrella, and a single magically glowing purple butterfly is perched on his open palm. The background is a lush, vibrant park with neon green trees and popping pink flowers."
+    "prompt": "A high-fidelity cinematic digital art piece of the young man from the reference image, featuring his specific facial features and voluminous wavy hair. He is wearing a clean white t-shirt and grey cargo pants, crouching on a wet park pathway during a gentle rain. He holds a large silver umbrella, with a single magically glowing purple butterfly perched on his open palm. Background: lush vibrant park, neon green trees, and popping pink flowers."
   },
-  
   {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/imag9.png",
-    "prompt": "Ultra-realistic BK cinematic full-body portrait of a 24-year-old handsome Bangladeshi man and his beautiful girlfriend sitting together on a sleek black leather sofa in a stylish, modern lounge. The man leans slightly forward with both elbows resting on his knees, holding his girlfriend's hand gently. His face and hairstyle exactly match the uploaded reference image, with his hairstyle perfectly set, and his face looking directly at the camera - confident, well-groomed, and expressive with a soft smile. He wears a white button-up shirt with sleeves rolled halfway up and light grey tailored chinos, with minimal accessories, giving a polished yet relaxed look. His girlfriend gaze him with a joyful, glowing expression. She wears a fashionable pastel outfit with minimal jewelry, her silky hair cascading naturally over her shoulders. The ambience features soft neon reflections and warm cinematic lighting, enhancing their chemistry and the modern décor around them. Ultra-realistic textures, high-fashion couple aesthetic, cinematic depth, vibrant yet elegant mood, ultra-detailed 8K realism."
+    "prompt": "Ultra-realistic 8K cinematic full-body portrait of a 24-year-old handsome Bangladeshi man and his beautiful girlfriend sitting on a sleek black leather sofa in a stylish modern lounge. The man leans forward, elbows on knees, holding hands gently. Face and hairstyle match reference exactly. Girlfriend gazes at him with a joyful expression. High-fashion aesthetic, soft neon reflections, warm cinematic lighting."
   },
-
-    {
+  {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img33.png",
-    "prompt": "Create a ultra-realistic cinematic FIFA World Cup 2026 Brazil promotional poster featuring a young Bengali man with brown skin, image same hair,confident smiling expression,wearing official Brazil national team jersey number 10 with green collar, CBF badge on chest, black shorts, smartwatch on left wrist, standing in a cool confident pose slightly turned. Background: Massive football stadium packed with"
+    "prompt": "Ultra-realistic cinematic FIFA World Cup 2026 Brazil promotional poster. Young Bengali man, brown skin, same hairstyle and smile from reference. Wearing official Brazil jersey number 10, black shorts, smartwatch. Standing in a confident pose. Background: Massive football stadium packed with fans."
   },
-
-    {
+  {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img34.png",
-    "prompt": "Create a ultra-realistic cinematic FIFA World Cup 2026 Argentina promotional poster featuring a young Bengali man with brown skin, image same hair,confident smiling expression,wearing official Argentina national team jersey number 10 with green collar,black shorts, smartwatch on left wrist, standing in a cool confident pose slightly turned. Background: Massive football stadium packed with"
+    "prompt": "Ultra-realistic cinematic FIFA World Cup 2026 Argentina promotional poster. Young Bengali man, brown skin, same hairstyle and smile from reference. Wearing official Argentina jersey number 10, black shorts, smartwatch. Standing in a confident pose. Background: Massive football stadium packed with fans."
   },
-
-{
+  {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/imag15.png",
-    "prompt": "Use 100% Faces or Features Above Uploaded Photos of Me(use face from uploaded photo) And My Wife(use face from uploaded photo), We Are In The Living Room While Reclining on The Couch Wear Black T shirt with Square sunGlasses while My wife Is Wearing a Black Tube Top Applied lite Red Lipstick small Earrings or Small necklace her Hair's Tied in a Cute Bun The white Blanket Is Up on Us we Are Lying Close Like Naughty Mood I'm Hugging Her Romantically Her Hands Are Around My Neck Capture"
+    "prompt": "Intimate cinematic portrait of a couple, using the exact facial features from reference. In a cozy living room, reclining on a couch under a white blanket. Both wearing black t-shirts, man with square sunglasses, wife with cute bun and light red lipstick. Romantic embrace with subtle smiles."
   },
-
-     {
+  {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img31.png",
-    "prompt": "Ultra-premium FIFA World Cup 2026 cinematic editorial poster using uploaded face with exact identity preservation. Confident young South Asian athlete walking toward camera, right hand in pocket, subtle smirk, masculine posture. Wearing Brazil jersey, black jeans, white luxury sneakers."
+    "prompt": "Ultra-premium FIFA World Cup 2026 cinematic editorial poster. Focus on exact face identity preservation of the reference. Confident South Asian athlete walking towards camera, hand in pocket, slight smirk. Wearing Brazil national team jersey, black jeans, white luxury sneakers."
   },
-
-    {
+  {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img32.png",
-    "prompt": "Ultra-premium FIFA World Cup 2026 cinematic editorial poster using uploaded face with exact identity preservation. Confident young South Asian athlete walking toward camera, right hand in pocket, subtle smirk, masculine posture. Wearing Argentina jersey, black jeans, white luxury sneakers."
+    "prompt": "Ultra-premium FIFA World Cup 2026 cinematic editorial poster. Focus on exact face identity preservation of the reference. Confident South Asian athlete walking towards camera, hand in pocket, slight smirk. Wearing Argentina national team jersey, black jeans, white luxury sneakers."
   },
-
   {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img21.png",
-    "prompt": "A cinematic portrait of a young man standing outdoors near a modern brick wall and plants, looking down casually, wearing a dark striped shirt, loose blue jeans, and sneakers. Around him are multiple floating futuristic holographic music player interfaces, glowing softly with neon light, showing different songs and album covers. The UI panels are semi-transparent glassmorphism style with playback controls, progress bars, and Spotify-like design."
+    "prompt": "Cinematic portrait of a young man from reference, standing outdoors near a modern brick wall and plants, looking down. Around him are multiple floating futuristic holographic music player interfaces with neon light, showing various songs and album covers, semi-transparent glassmorphism style."
   },
-
   {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img22.png",
-    "prompt": "A young Indian man sitting on a stool, wearing a beige hoodie and black pants, calm confident expression, surrounded by multiple cute mini cartoon versions of himself in different poses (sitting, climbing rope, taking photos, waving, using phone), warm yellow-orange gradient background, modern motivational poster style, soft cinematic lighting, highly detailed face, 3D cartoon characters, depth of field, aesthetic composition, books stacked beside him (self-improvement theme), notebook on floor"
+    "prompt": "A young Indian man from reference, sitting on a stool, wearing a beige hoodie and black pants, with multiple cute mini cartoon versions of himself in various poses (sitting, climbing rope, taking photos). Warm yellow-orange gradient background, motivational poster style, soft lighting."
   },
-
   {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img26.png",
-    "prompt": "Ultra-realistic 22K UHD dreamy cinematic fantasy scene of a 25 year old man and his girlfriend (use my uploaded photo for 100% exact face match, hairstyle, skin tone, beard and body proportions — no changes at all. Use my girlfriend’s uploaded photo for 100% exact face match — no changes). Scene: We are floating gently in the air above a soft pastel field, enjoying a happy romantic moment, smiling and holding each other in a light playful pose, weightless feeling, dreamy vibe."
+    "prompt": "Ultra-realistic UHD dreamy cinematic fantasy scene. A 25-year-old man and his girlfriend, with 100% exact face match, hairstyle, skin tone, beard, and body proportions from reference. Floating gently in the air above a soft pastel field, holding each other with a joyful and weightless feeling."
   },
-
   {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img27.png",
-    "prompt": "A 64K DSLR ultra-realistic portrait of a young woman sitting by a riverbank green in a dark green chiffon saree with pearl border in embroidered flowers pink, matching blouse with pearl latkans. Braided hair with pearl gajra, jhumkas and bangles, bare feet at the river. Glowing smiling face, soft makeup, skin tone, one hand on lap and the other splashing blue water with frozen droplets. Flowers around, shallow depth of field, sharp eye face focus, natural light, cinematic color grading."
+    "prompt": "A DSLR ultra-realistic portrait of a young woman from reference, sitting by a green riverbank in a dark green chiffon saree with pearl border and pink floral embroidery. Braided hair with pearl gajra, glowing smile, barefoot splashing blue water. Shallow depth of field, sharp eye focus, natural light."
   },
-
   {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/imag10.png",
-    "prompt": "Ultra-realistic full-size 8K DSLR street-style portrait of a handsome young man (use same face from reference image). Standing casually on a modern walkway, leaning on a sleek steel railing, calm confident look toward camera. Wearing navy blue corduroy jacket over light grey T-shirt. Natural light, blurred urban background, cinematic depth, Gemini 2.5 Flash Ultra style-sharp details, realistic skin, perfect color tones."
+    "prompt": "Ultra-realistic 8K DSLR street-style portrait of a handsome young man with the face from reference. Standing on a modern walkway, leaning on a sleek steel railing, looking confidently at the camera. Wearing a navy blue corduroy jacket over a light grey t-shirt. Blurred urban background, sharp details."
   },
-
   {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/imag12.png",
-    "prompt": "Ultra-realistic, high-resolution full-body portrait of an extremely handsome young man,1K with his exact face and hairstyle perfectly matching the uploaded reference image, hairstyle impeccably styled, looking directly at the camera with a subtle confident smile.267 He is holding an iPhone with the back camera facing a large mirror, taking a photo with a beautiful young woman standing beside him. He wears a crisp white shirt, black suit, jacket, and black pants, while she wears a modern white shirt and black pants, her hair perfectly styled and expression natural. They are indoors, in front of a sleek, full-length, mirror with reflections of modern minimalistic interiors, soft ambient lighting highlighting their faces and outfits. The scene includes ultra-detailed textures, realist reflections in the mirror, soft shadows, and cinematic depth of field, creating a stylish 78 natural, and Instagram-ready moment."
+    "prompt": "Ultra-realistic high-resolution portrait with exact face and hairstyle matching reference. Handsome man taking a selfie in a large mirror with an iPhone. A beautiful young woman stands beside him. Man wears a crisp white shirt with black suit and pants; woman wears white shirt with black pants. Detailed textures, realistic mirror reflections."
   },
-
-
   {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img11.png",
-    "prompt": "Create an intimate portrait of a couple with a soft and romantic atmosphere. A young man and woman. The woman is wearing a mango color dress/shirt with straps or thin straps. The man is wearing a mango colour turtleneck sweater. Pose: They are standing close together in an intimate pose. The woman is facing slightly toward the camera with her shoulders bare, while the man stands behind her and leans his head slightly closer, gazing at her. Face & Expression. Lips pink girl."
+    "prompt": "Intimate cinematic portrait of a young couple from reference with a soft, romantic atmosphere. Standing close together. Woman wears a mango color dress with thin straps, man wears a mango color turtleneck sweater. Man stands behind woman, leaning closer. Soft focus on expression, pink lips for woman."
   },
-
   {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/imag23.png",
-    "prompt": "Dreamy scrapbook-style college aesthetic featuring a young man in a soft dusty lavender/light purple button-down shirt paired with crisp white trousers. The shirt is relaxed yet tailored (not baggy), with sleeves rolled up to the forearm for a casual, effortless vibe. Styled with dark rectangular sunglasses,contrast to the pastel outfit. ,Niloy ,, a subtle silver chain, and a bold black-faced wristwatch to add a grounded, slightly rugged contrast to the pastel outfit."
+    "prompt": "Dreamy scrapbook-style college aesthetic featuring the young man from reference. Wearing a soft dusty lavender/light purple button-down shirt with sleeves rolled, paired with crisp white trousers. Styled with dark rectangular sunglasses, a silver chain, and a bold black wristwatch. Relaxed yet tailored vibe."
   },
-  
   {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img25.png",
-    "prompt": "hyper-realistic dark Red portrait cinematic image actions. (uploaded photo 100% face match) of a very handsome 19 years old age boy (followed by given picture face) Soft moody cinematic lighting highlights his facial features naturally. He leans casually pose, wearing oversized red shirt, and he wear wash lose jeans he wear white sleepers. hair simple hair cover his eyebrows, well-fitted complement the serene, The background backlight"
+    "prompt": "Hyper-realistic dark Red cinematic image actions with exact face match from reference. A handsome 19-year-old boy. Leaning casually, wearing an oversized red shirt, washed loose jeans, and white slippers. Messy hair covers his eyebrows. Backlight from the background, soft moody cinematic lighting."
   },
-    
-    {
+  {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img28.png",
-    "prompt": "Romantic portrait of a South Asian couple, woman in a rich red embroidered lehenga with intricate gold patterns, wearing traditional jewelry (maang tikka, large earrings), soft glam makeup, long wavy black hair, embracing a man from behind with her arm around his shoulder, confident expression, man wearing a deep red velvet blazer, black shirt, sunglasses, styled hair, light stubble, seated pose, leaning slightly into her, elegant and intimate composition, soft natural window light, warm tones,"
+    "prompt": "Romantic portrait of a South Asian couple from reference. Woman in a rich red embroidered lehenga with intricate gold patterns, wearing traditional jewelry and glam makeup. Long wavy black hair, embracing the man from behind. Man wears a deep red velvet blazer, black shirt, and sunglasses. Elegant, warm cinematic composition."
   },
-
-    {
+  {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img29.png",
-    "prompt": "Warm aesthetic Instagram-style six in collage of a young Indian man, messy styled hair, soft smile, deep maroon linen shirt. eyes  glasses, Golden hour lighting with warm amber tones, soft shadows, cozy mood. Multi-frame layout with close-ups (one in eyes, one in lips, side profile) one main portrait pose. Add floral elements in foreground (pink lilies), dark night background. subtle spotify music player overlay, minimal modern interface, soft glow, dreamy, intimate vibe, high detail"
+    "prompt": "Warm aesthetic Instagram-style six-frame collage of a young Indian man from reference. Messy styled hair, soft smile, deep maroon linen shirt, glasses. Golden hour lighting with warm amber tones. Layout with various close-ups and profile shots. Add floral elements (pink lilies) and dark night background with subtle glow."
   },
-
-    {
+  {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img35.png",
-    "prompt": "A high-quality sports meta-poster featuring multiple images of a player wearing the famous Brazil jersey. Large golden text at the top reads "RONI" with "10" below. The poster includes three distinct photos of the player: a large close-up on the left looking upwards, a full-body standing shot on the right, and an action shot below in the center dribbling a ball. Behind the large photos, a view from behind shows "RONI 10 Brazil." Across the middle, large blue text reads "Brazil" with "2026" below. CBF logos are placed throughout. The background depicts a massive stadium scene with golden light accents. Below, small golden text says "VAMOS Brazil", and the player's name and number. It's a professional and engaging sports poster design."
+    "prompt": "High-quality sports meta-poster featuring multiple images of a player in a Brazil jersey. Large golden text at top reads \"RONI\" with \"10\" below. Includes close-up, full-body shot, and action dribbling shot. Background: Massive stadium with golden light accents. Text: \"VAMOS BRAZIL\", 2026 World Cup theme."
   },
-
-    {
+  {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img36.png",
-    "prompt": "A high-quality sports meta-poster featuring multiple images of a player wearing the famous Argentina jersey. Large golden text at the top reads "RONI" with "10" below. The poster includes three distinct photos of the player: a large close-up on the left looking upwards, a full-body standing shot on the right, and an action shot below in the center dribbling a ball. Behind the large photos, a view from behind shows "RONI 10 ARGENTINA." Across the middle, large blue text reads "ARGENTINA" with "2026" below. AFA logos are placed throughout. The background depicts a massive stadium scene with golden light accents. Below, small golden text says "LA ALBICELESTE", "VAMOS ARGENTINA", and the player's name and number. It's a professional and engaging sports poster design."
+    "prompt": "High-quality sports meta-poster featuring multiple images of a player in an Argentina jersey. Large golden text at top reads \"RONI\" with \"10\" below. Includes close-up, full-body shot, and action dribbling shot. Background: Massive stadium with golden light accents. Text: \"LA ALBICELESTE\", \"VAMOS ARGENTINA\", 2026 World Cup theme."
   },
-{
+  {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img37.png",
-    "prompt": "Stylish young Indian man sitting casually on a black Royal Enfield in a rural field at golden hour, wearing a beige linen shirt and matching pants, sunglasses hanging from shirt, groomed beard and modern hairstyle. He looks calmly at a tall black horse standing beside him with a leather bridle, creating an emotional connection. Soft countryside background, warm cinematic sunlight, shallow depth of field, bokeh, ultra-realistic, 85mm portrait style, natural tones, 4K."
+    "prompt": "Stylish young Indian man from reference, sitting casually on a black Royal Enfield in a rural field at golden hour. Wearing a beige linen shirt and matching pants, sunglasses hanging from shirt, groomed beard, modern hairstyle. He looks at a tall black horse beside him with a leather bridle, emotional connection. Warm cinematic sunlight, 85mm portrait style."
   },
-
-    {
+  {
     "imageUrl": "https://raw.githubusercontent.com/mofazjuli1937-web/aiimageprompt/refs/heads/main/img38.png",
-    "prompt": "A high-quality birthday poster featuring a young man with stylish dark hair, a groomed beard. The composition includes multiple perspectives: a central full-body shot of him walking in a white long-sleeve t-shirt, for blue jeans, sneaker, flanked by two artistic side-profile portraits. In the background, a large headshot stylish sunglasses. The background is a clean, textured white with bold red artistic brush strokes and a subtle red gradient. Text at the top reads "Niloy Sheikh " 9:16 ratio'"
+    "prompt": "High-quality birthday poster of a young man with stylish dark hair and groomed beard from reference. Composition: central full-body shot walking in white long-sleeve t-shirt and blue jeans, flanked by side-profile portraits. Background: clean textured white with bold red artistic brush strokes. Text at top: \"Niloy Sheikh\", 9:16 aspect ratio."
   }
 ]
